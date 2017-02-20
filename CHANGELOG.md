@@ -1,3 +1,7 @@
+## 0.27.1-2 (2017-02-20)
+
+* Updated to sensu 0.27.1
+
 ## 0.26.5-2 (2016-11-30)
 
 * Added curl and wget
