@@ -1,3 +1,7 @@
+## 0.29.0-7~1 (2017-05-09)
+
+* Added tzdata package
+
 ## 0.29.0-7 (2017-04-14)
 
 * Updated to sensu 0.29.0
