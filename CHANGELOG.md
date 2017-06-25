@@ -1,3 +1,7 @@
+## 0.29.0-11~1 (2017-06-25)
+
+* Updated packages
+
 ## 0.29.0-7~1 (2017-05-09)
 
 * Added tzdata package
