@@ -1,3 +1,8 @@
+## 0.29.0-11~2 (2017-07-02)
+
+* Updated packages
+* Don't install ridoc when installing gems
+
 ## 0.29.0-11~1 (2017-06-25)
 
 * Updated packages
