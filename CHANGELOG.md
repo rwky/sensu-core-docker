@@ -1,3 +1,8 @@
+## 1.1.3 (2017-12-05)
+
+* Updated to sensu 1.1.3
+* Added udns-utils
+
 ## 1.1.0 (2017-10-09)
 
 * Updated to sensu 1.1.0
