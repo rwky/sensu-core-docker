@@ -1,3 +1,7 @@
+## 1,2.1-1 (2018-04-03)
+
+* Updated packages
+
 ## 1,2.1 (2018-03-02)
 
 * Updated to sensu 1.2.1
